@@ -1,0 +1,51 @@
+Video,Message,Decoded,Levenshtein,Error
+1.mov,hello,hello,0,0
+3.mov,@rvg-18227,@rvg-18227,0,0
+4.mov,sos,sos,0,0
+5.mov,coms w4735,coms w4735,0,0
+6.mov,bye,bye,0,0
+7.mov,where,where,0,0
+8.mov,here,here,0,0
+9.mov,there,there,0,0
+10.mov,meet me,meet me,0,0
+11.mov,error,error,0,0
+12.mov,success,success,0,0
+15.mov,help!,help!,0,0
+16.mov,save me,save me,0,0
+18.mov,signal,signal,0,0
+19.mov,closer,closer,0,0
+21.mov,enemy,enemy,0,0
+22.mov,location,location,0,0
+23.mov,invite,invite,0,0
+25.mov,end,end,0,0
+26.mov,message,message,0,0
+27.mov,out,out,0,0
+28.mov,live long,live long,0,0
+29.mov,god bless,god bless,0,0
+30.mov,program,program,0,0
+31.mov,code,code,0,0
+32.mov,hi!,hi!,0,0
+34.mov,what else,what else,0,0
+36.mov,phrases,phrases,0,0
+37.mov,usa,usa,0,0
+38.mov,rohit,rohit,0,0
+39.mov,airplane,airplane,0,0
+40.mov,train,train,0,0
+42.mov,army camp,army camp,0,0
+44.mov,i love you,i love you,0,0
+45.mov,morse,morse,0,0
+46.mov,ideas,ideas,0,0
+49.mov,games,games,0,0
+50.mov,adios,adios,0,0
+2.mov,thanks!,thaiks!,1,0.142857143
+13.mov,complete,comllete,1,0.125
+33.mov,thank you,thank yos,1,0.111111111
+35.mov,i don't know,i don' know,1,0.083333333
+43.mov,navigate,navidate,1,0.125
+14.mov,look out!,look outce,2,0.222222222
+17.mov,you there,you thel,2,0.222222222
+20.mov,friend,frsnd,2,0.333333333
+24.mov,beginning,begicing,2,0.222222222
+41.mov,bus ride,bug rise,2,0.25
+47.mov,i need,i nid,2,0.333333333
+48.mov,bombs away,deombs aatay,4,0.4
